@@ -9,7 +9,7 @@ start Player.py to train the model and see some evaluation
     
  ## creating dataset
  
- With randomly generated actions: start randomactions.py
+ With randomly generated actions: start randomactions.py\n
  Play snake yourself: start expertplayer.py
   - set the score_requirement variable (higher score requirement leads to higher performance after training the model)
   - set the games_i_want_to_play variable
